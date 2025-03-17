@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "2u0F+/Kw",
+  "version": "vLDfSV4D",
   "assets": [
     {
       "hash": "sha256-8zJBGkXfBVXWSxBSWd3R+0+JtSLm5h6ztbdcvydnIVY=",
@@ -122,8 +122,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.v6dpoe1dda.wasm"
     },
     {
-      "hash": "sha256-wS45r873k1VwBjeW5vkBRuaaIcvB4KNHjPiu3F1qbKo=",
-      "url": "_framework/MudBlazor.5b34tmjzg9.wasm"
+      "hash": "sha256-TzEAZZO+KoZ/vynkz7XPtkDkUUsgP5XqztZBHpaTIxI=",
+      "url": "_framework/MudBlazor.zre65vur5q.wasm"
     },
     {
       "hash": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
@@ -274,8 +274,8 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm"
     },
     {
-      "hash": "sha256-b6P7NzCJR04g8BS8t0FEzMMBaXojU9Zm4TWqrQcbT/w=",
-      "url": "_framework/System.Runtime.InteropServices.vglz85lns8.wasm"
+      "hash": "sha256-cSTWvd65+cqtfh1CwvCQckHZsCMLF3yTRgUz2zlq6ME=",
+      "url": "_framework/System.Runtime.InteropServices.na1gttiinz.wasm"
     },
     {
       "hash": "sha256-u1agIQbuvVw5XwwuoASR//TYYctxqNYOaEDahwRpQDM=",
@@ -338,23 +338,23 @@ self.assetsManifest = {
       "url": "_framework/System.icunsnzrqy.wasm"
     },
     {
-      "hash": "sha256-S0wUNIMfFkdnXM/F5wrziJIyeJ71EIgBvpAFXoeXapQ=",
-      "url": "_framework/ToDo.Common.z6pr4cylb5.wasm"
+      "hash": "sha256-QkDZhOOYXCtkBJJqO4JqLClwunCCR8Y+LOoN6Ot+tMI=",
+      "url": "_framework/ToDo.Common.mjsvif32ck.wasm"
     },
     {
-      "hash": "sha256-xDc7Pb4wIbkdfdJVxAD3lBcrfMaVYFbvULKakKoaZAE=",
-      "url": "_framework/ToDo.Models.sa4wy6q6sx.wasm"
+      "hash": "sha256-Q1JjsN7ozFM9pyP/i/djXavcxHB+s/04tvv64HHbFPA=",
+      "url": "_framework/ToDo.Models.nbq4w5q8tc.wasm"
     },
     {
-      "hash": "sha256-WMFaDi28P7EnwoFvtHIIKhfqP6VOmowSBXxoQO7/lbs=",
-      "url": "_framework/ToDo.Repository.cfj4aj1sni.wasm"
+      "hash": "sha256-zMYTIvJ1SWJAUbC+saQk9jnDZzWcrPBUQfuNqJ6KgCQ=",
+      "url": "_framework/ToDo.Repository.kaxpiwoc71.wasm"
     },
     {
-      "hash": "sha256-HeRB9h8M+VmguMCNolHwEk63Q1BJ3V+UpQue5yxI3kQ=",
-      "url": "_framework/ToDo.zc1wdokua6.wasm"
+      "hash": "sha256-2sWgaeK6PAJBHD3nIhMUIwLxiPnbWLwONEwBdgi7BbU=",
+      "url": "_framework/ToDo.ac2k9lms6f.wasm"
     },
     {
-      "hash": "sha256-4S64JVEl+4StvNKM1UMmzeS0rgINf16WDTc6q/PSiP0=",
+      "hash": "sha256-t37MBGJg1poeGvQHFXT/qf+PmNefyDtALN31lMBXVzs=",
       "url": "_framework/blazor.boot.json"
     },
     {
