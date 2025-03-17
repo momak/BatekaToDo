@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "0+YmZElo",
+  "version": "4iiynZFC",
   "assets": [
     {
       "hash": "sha256-8zJBGkXfBVXWSxBSWd3R+0+JtSLm5h6ztbdcvydnIVY=",
@@ -46,10 +46,6 @@ self.assetsManifest = {
       "url": "_framework/Magic.IndexedDb.zf3xiq2wiy.wasm"
     },
     {
-      "hash": "sha256-mcv+CH+oGm6jVSJUa01hYMHM7mAM553UVfWGNzem/iM=",
-      "url": "_framework/Microsoft.AspNetCore.Components.7o4r0dtjw8.wasm"
-    },
-    {
       "hash": "sha256-1Wiq2wQ7WCjo9fKkL/AUSia899+a8zbR6QRquH8nWRM=",
       "url": "_framework/Microsoft.AspNetCore.Components.Forms.r053fjs4u7.wasm"
     },
@@ -60,6 +56,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-qynBW9WiwObtIfhh9wI0CtBdly3AnMbFNymzf6OHJNc=",
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.1lm0gpprtl.wasm"
+    },
+    {
+      "hash": "sha256-ME3mVx0aH1ZoY7HR1n8e5Digzib5qcTeOLAA3n1yGU4=",
+      "url": "_framework/Microsoft.AspNetCore.Components.gos861asuu.wasm"
     },
     {
       "hash": "sha256-wv7OtF6ZH9INBuKdKPusvlWLqFZjuY7kXlAK+Ha4Rjo=",
@@ -338,23 +338,23 @@ self.assetsManifest = {
       "url": "_framework/System.icunsnzrqy.wasm"
     },
     {
-      "hash": "sha256-waULYXJRu1h41ylJtafIDiVAH8+bXklGs2yvohEO5So=",
-      "url": "_framework/ToDo.92zxeq08aj.wasm"
+      "hash": "sha256-S0wUNIMfFkdnXM/F5wrziJIyeJ71EIgBvpAFXoeXapQ=",
+      "url": "_framework/ToDo.Common.z6pr4cylb5.wasm"
     },
     {
-      "hash": "sha256-dWvePxukVy00axYDy+2VkloLZZfDPnhS4/k0VP9O2Zg=",
-      "url": "_framework/ToDo.Common.h1ojjqpp8w.wasm"
+      "hash": "sha256-xDc7Pb4wIbkdfdJVxAD3lBcrfMaVYFbvULKakKoaZAE=",
+      "url": "_framework/ToDo.Models.sa4wy6q6sx.wasm"
     },
     {
-      "hash": "sha256-RjgZCU3QhuQs4KFQU85p/FBNtxB4spOk3ANADGYnQC8=",
-      "url": "_framework/ToDo.Models.ee87248bp2.wasm"
+      "hash": "sha256-WMFaDi28P7EnwoFvtHIIKhfqP6VOmowSBXxoQO7/lbs=",
+      "url": "_framework/ToDo.Repository.cfj4aj1sni.wasm"
     },
     {
-      "hash": "sha256-/wizU4hp6tKi5ih7Y1C8GsUj29Ix8xUw0VdpdbONZgQ=",
-      "url": "_framework/ToDo.Repository.lflurhhhcs.wasm"
+      "hash": "sha256-kc2A2pR957hEJQUCJtczMHHU54wp/ip5p4d83Ym+GOE=",
+      "url": "_framework/ToDo.lb3n91xczo.wasm"
     },
     {
-      "hash": "sha256-XtXo7s6pu8llKUi1cp2e31VNwdQDG+NaeJ4TEjjxeY4=",
+      "hash": "sha256-/cYhb14fgAJfXMZUYHoQcLyioj13jlehPJYe5cAaBlI=",
       "url": "_framework/blazor.boot.json"
     },
     {
