@@ -1,13 +1,13 @@
 {
   "mainAssemblyName": "ToDo",
   "resources": {
-    "hash": "sha256-xaJwCljtwaK8MqFzgCNEedLbF4uOZZZL+Q+f5JsfoWk=",
+    "hash": "sha256-/UJA8he5wto1NukkAK9LfCM7RfSzEhFsXG32zVCSnQY=",
     "fingerprinting": {
       "Ardalis.GuardClauses.leqc9cxdo1.wasm": "Ardalis.GuardClauses.wasm",
       "FluentValidation.fvee6lf8f0.wasm": "FluentValidation.wasm",
       "Magic.IndexedDb.zf3xiq2wiy.wasm": "Magic.IndexedDb.wasm",
       "Microsoft.AspNetCore.Components.Forms.r053fjs4u7.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
-      "Microsoft.AspNetCore.Components.gos861asuu.wasm": "Microsoft.AspNetCore.Components.wasm",
+      "Microsoft.AspNetCore.Components.dbt0m6k2re.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.gveadrochg.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.1lm0gpprtl.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "Microsoft.CSharp.utd3ajq2ma.wasm": "Microsoft.CSharp.wasm",
@@ -83,7 +83,7 @@
       "ToDo.Common.z6pr4cylb5.wasm": "ToDo.Common.wasm",
       "ToDo.Models.sa4wy6q6sx.wasm": "ToDo.Models.wasm",
       "ToDo.Repository.cfj4aj1sni.wasm": "ToDo.Repository.wasm",
-      "ToDo.lb3n91xczo.wasm": "ToDo.wasm",
+      "ToDo.zc1wdokua6.wasm": "ToDo.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.1p93gcv9fh.js": "dotnet.native.js",
       "dotnet.native.9msu8ucn2h.wasm": "dotnet.native.wasm",
@@ -115,7 +115,7 @@
       "FluentValidation.fvee6lf8f0.wasm": "sha256-y2wmu0q0yfh4/O0BN8s/ZnPUFizpBUQu6X5SeIQJjnI=",
       "Magic.IndexedDb.zf3xiq2wiy.wasm": "sha256-UVYWtK26V/3Xcz9ZhzbK9WrANUGX6dfCPBgn4eYAMGY=",
       "Microsoft.AspNetCore.Components.Forms.r053fjs4u7.wasm": "sha256-1Wiq2wQ7WCjo9fKkL/AUSia899+a8zbR6QRquH8nWRM=",
-      "Microsoft.AspNetCore.Components.gos861asuu.wasm": "sha256-ME3mVx0aH1ZoY7HR1n8e5Digzib5qcTeOLAA3n1yGU4=",
+      "Microsoft.AspNetCore.Components.dbt0m6k2re.wasm": "sha256-l/2uct238o6DnTzzxljgvfx7qc9qPh5jajji929EaOk=",
       "Microsoft.AspNetCore.Components.Web.gveadrochg.wasm": "sha256-NJ02RywRr+ncOwK+QAaO5ZAoA0LmD4xf7nfcTI0koi4=",
       "Microsoft.AspNetCore.Components.WebAssembly.1lm0gpprtl.wasm": "sha256-qynBW9WiwObtIfhh9wI0CtBdly3AnMbFNymzf6OHJNc=",
       "Microsoft.CSharp.utd3ajq2ma.wasm": "sha256-wv7OtF6ZH9INBuKdKPusvlWLqFZjuY7kXlAK+Ha4Rjo=",
@@ -189,7 +189,7 @@
       "ToDo.Common.z6pr4cylb5.wasm": "sha256-S0wUNIMfFkdnXM/F5wrziJIyeJ71EIgBvpAFXoeXapQ=",
       "ToDo.Models.sa4wy6q6sx.wasm": "sha256-xDc7Pb4wIbkdfdJVxAD3lBcrfMaVYFbvULKakKoaZAE=",
       "ToDo.Repository.cfj4aj1sni.wasm": "sha256-WMFaDi28P7EnwoFvtHIIKhfqP6VOmowSBXxoQO7/lbs=",
-      "ToDo.lb3n91xczo.wasm": "sha256-kc2A2pR957hEJQUCJtczMHHU54wp/ip5p4d83Ym+GOE="
+      "ToDo.zc1wdokua6.wasm": "sha256-HeRB9h8M+VmguMCNolHwEk63Q1BJ3V+UpQue5yxI3kQ="
     }
   },
   "cacheBootResources": true,
