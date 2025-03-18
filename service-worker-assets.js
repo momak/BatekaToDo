@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "H2bH7Ulu",
+  "version": "4hLu0t1e",
   "assets": [
     {
       "hash": "sha256-8zJBGkXfBVXWSxBSWd3R+0+JtSLm5h6ztbdcvydnIVY=",
@@ -338,23 +338,23 @@ self.assetsManifest = {
       "url": "_framework/System.icunsnzrqy.wasm"
     },
     {
-      "hash": "sha256-6Ud6oAuJz6uAD4InkxrIhCkJacpgIyfmNFvKc7ThJ3M=",
-      "url": "_framework/ToDo.Common.rnke0qr8mq.wasm"
+      "hash": "sha256-GsX8vHi3xLkKGqdmAzaOvM7RnkTWNZDFh7nZgRQoMTA=",
+      "url": "_framework/ToDo.Common.ym66u00eg4.wasm"
     },
     {
-      "hash": "sha256-gxW2d8zQtM/0Xkn2vcZSvt+Y+TVUJohQb8akRfhBfLE=",
-      "url": "_framework/ToDo.Models.tcja696i23.wasm"
+      "hash": "sha256-Swn/WfpWDro3j8YNouaB+IalIRpRi8LNi6SAcESt3zI=",
+      "url": "_framework/ToDo.Models.n1pu7i8fsb.wasm"
     },
     {
-      "hash": "sha256-d7s1BKN2HuZ/zstMvIrsaUgJUWYaGh6XdwNNqepYk4o=",
-      "url": "_framework/ToDo.Repository.n4xvicstvs.wasm"
+      "hash": "sha256-rl5Fu3cZROVt4J8SPeVQGKtnUfo5QEhXw4Y/3+ZUjP8=",
+      "url": "_framework/ToDo.Repository.iblnr6s46z.wasm"
     },
     {
-      "hash": "sha256-J2dWUCRt93vRznG3uAtVWI/ksmytieEjjwZb3Hscpmw=",
-      "url": "_framework/ToDo.p8e79nzf44.wasm"
+      "hash": "sha256-4kkqYPejpOsINNhUGsbhDVSo+U0unTCfbTuMpB8KCuc=",
+      "url": "_framework/ToDo.upcmoqe7wa.wasm"
     },
     {
-      "hash": "sha256-WfTgSsDAWeJudn7/YYm0DIIsYN+L8GQH/pZUeGMooI8=",
+      "hash": "sha256-30T4Xb2FcM7Q+Rlkr0eb3tqFbP+Me43f+UattLrcS5o=",
       "url": "_framework/blazor.boot.json"
     },
     {
