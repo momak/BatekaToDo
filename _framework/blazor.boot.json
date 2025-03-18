@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ToDo",
   "resources": {
-    "hash": "sha256-RLyFJ5A26LlwDL72+lcVkhFTgFZfwOu3gWSRwFhoKtk=",
+    "hash": "sha256-a042day/j6Dqpy0NXE3iKOQLH/nbQdTGmKHdcJdfGk8=",
     "fingerprinting": {
       "Ardalis.GuardClauses.leqc9cxdo1.wasm": "Ardalis.GuardClauses.wasm",
       "FluentValidation.fvee6lf8f0.wasm": "FluentValidation.wasm",
@@ -80,10 +80,10 @@
       "System.Xml.Linq.yiwjknpdq4.wasm": "System.Xml.Linq.wasm",
       "System.Xml.ReaderWriter.qzxaxqcsmf.wasm": "System.Xml.ReaderWriter.wasm",
       "System.Xml.XDocument.wuscq0843f.wasm": "System.Xml.XDocument.wasm",
-      "ToDo.Common.mjsvif32ck.wasm": "ToDo.Common.wasm",
-      "ToDo.Models.nbq4w5q8tc.wasm": "ToDo.Models.wasm",
-      "ToDo.Repository.kaxpiwoc71.wasm": "ToDo.Repository.wasm",
-      "ToDo.ac2k9lms6f.wasm": "ToDo.wasm",
+      "ToDo.Common.rnke0qr8mq.wasm": "ToDo.Common.wasm",
+      "ToDo.Models.tcja696i23.wasm": "ToDo.Models.wasm",
+      "ToDo.Repository.n4xvicstvs.wasm": "ToDo.Repository.wasm",
+      "ToDo.p8e79nzf44.wasm": "ToDo.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.1p93gcv9fh.js": "dotnet.native.js",
       "dotnet.native.9msu8ucn2h.wasm": "dotnet.native.wasm",
@@ -186,10 +186,10 @@
       "System.Xml.Linq.yiwjknpdq4.wasm": "sha256-akuvaefMEZkY+xfX8AkcFNb1F9Qu3cRoTWvxlR6Vnw4=",
       "System.Xml.ReaderWriter.qzxaxqcsmf.wasm": "sha256-lvMvmrFillQG8kikOm28f6UwApF0pG2P6lzNesCr8PY=",
       "System.Xml.XDocument.wuscq0843f.wasm": "sha256-GPeD3UBxKn4zjqfpQXbIVbPw8qkAZHhRuns+jqfIDKM=",
-      "ToDo.Common.mjsvif32ck.wasm": "sha256-QkDZhOOYXCtkBJJqO4JqLClwunCCR8Y+LOoN6Ot+tMI=",
-      "ToDo.Models.nbq4w5q8tc.wasm": "sha256-Q1JjsN7ozFM9pyP/i/djXavcxHB+s/04tvv64HHbFPA=",
-      "ToDo.Repository.kaxpiwoc71.wasm": "sha256-zMYTIvJ1SWJAUbC+saQk9jnDZzWcrPBUQfuNqJ6KgCQ=",
-      "ToDo.ac2k9lms6f.wasm": "sha256-2sWgaeK6PAJBHD3nIhMUIwLxiPnbWLwONEwBdgi7BbU="
+      "ToDo.Common.rnke0qr8mq.wasm": "sha256-6Ud6oAuJz6uAD4InkxrIhCkJacpgIyfmNFvKc7ThJ3M=",
+      "ToDo.Models.tcja696i23.wasm": "sha256-gxW2d8zQtM/0Xkn2vcZSvt+Y+TVUJohQb8akRfhBfLE=",
+      "ToDo.Repository.n4xvicstvs.wasm": "sha256-d7s1BKN2HuZ/zstMvIrsaUgJUWYaGh6XdwNNqepYk4o=",
+      "ToDo.p8e79nzf44.wasm": "sha256-J2dWUCRt93vRznG3uAtVWI/ksmytieEjjwZb3Hscpmw="
     }
   },
   "cacheBootResources": true,
