@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ToDo",
   "resources": {
-    "hash": "sha256-D6VYzbZe7FkQchtiJTd75v/KdPQFF0B7mjdKX1t4c9A=",
+    "hash": "sha256-wSN3ZPdGIFCXlhzcqY0nDxoIFSgCZmeHpYlfaISKm8A=",
     "fingerprinting": {
       "Ardalis.GuardClauses.leqc9cxdo1.wasm": "Ardalis.GuardClauses.wasm",
       "FluentValidation.fvee6lf8f0.wasm": "FluentValidation.wasm",
@@ -83,7 +83,7 @@
       "ToDo.Common.zm3q2nuhjg.wasm": "ToDo.Common.wasm",
       "ToDo.Models.1h84hng16h.wasm": "ToDo.Models.wasm",
       "ToDo.Repository.m57hrrwsb4.wasm": "ToDo.Repository.wasm",
-      "ToDo.lw09wtzkvp.wasm": "ToDo.wasm",
+      "ToDo.5ebj4gwqs0.wasm": "ToDo.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.hvg7u8bimp.js": "dotnet.native.js",
       "dotnet.native.3c4wvb350q.wasm": "dotnet.native.wasm",
@@ -189,7 +189,7 @@
       "ToDo.Common.zm3q2nuhjg.wasm": "sha256-FU1MyOkGV8md92NyzCOYVDRKeyDQ5z4VKyYvPnkDems=",
       "ToDo.Models.1h84hng16h.wasm": "sha256-G09LPAFJEAfiXL8qMw7GATGDZsvarquPtYtEC7HzKx8=",
       "ToDo.Repository.m57hrrwsb4.wasm": "sha256-hnrEU3GlFlafGwZsgiqHL4AdjlzreyAUN8Hs8dWMly0=",
-      "ToDo.lw09wtzkvp.wasm": "sha256-1VCu2t4ZbUE0OnSQj09Krwho+FUmp5YwnbyqJ+4IquQ="
+      "ToDo.5ebj4gwqs0.wasm": "sha256-k/tAE6VIM+yeGtp/mGGf4s8cuTu0ASAB+Z9LPfFy+4E="
     }
   },
   "cacheBootResources": true,
