@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 /* Manifest version: H2y5wDSN */
-=======
-/* Manifest version: epH3LQRE */
->>>>>>> 4a5d05a1c1aa3b29a0318aa2b1ece2f7e5f22799
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
