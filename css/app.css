@@ -101,3 +101,16 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+
+.mud-expand-panel > div {
+    margin-left: 0px;
+    margin-right: 0px
+}
+
+
+@media (max-width: 600px) {
+    .mud-expand-panel > div {
+        margin-left: -10px; 
+        margin-right: -8px; 
+    }
+}
