@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ToDo",
   "resources": {
-    "hash": "sha256-Pflp1wBSYlzPk0mj9WSkms74bmCJHIHxsWvcNyZ0ZTk=",
+    "hash": "sha256-w6qHUt2xTBgkommSmZWWT7QtO2NwEEEdhEcPILsqins=",
     "fingerprinting": {
       "Ardalis.GuardClauses.leqc9cxdo1.wasm": "Ardalis.GuardClauses.wasm",
       "FluentValidation.fvee6lf8f0.wasm": "FluentValidation.wasm",
@@ -86,9 +86,9 @@
       "System.Xml.Linq.hvxjxkvtb2.wasm": "System.Xml.Linq.wasm",
       "System.Xml.ReaderWriter.qzwb826ad3.wasm": "System.Xml.ReaderWriter.wasm",
       "System.Xml.XDocument.48098xpfwz.wasm": "System.Xml.XDocument.wasm",
-      "ToDo.Common.d9ryzvwxap.wasm": "ToDo.Common.wasm",
-      "ToDo.Models.xlcm7cr64j.wasm": "ToDo.Models.wasm",
-      "ToDo.qm9jf4heab.wasm": "ToDo.wasm",
+      "ToDo.Common.qbjbk2bbi2.wasm": "ToDo.Common.wasm",
+      "ToDo.Models.gg96tvo16t.wasm": "ToDo.Models.wasm",
+      "ToDo.7w95jtx38v.wasm": "ToDo.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.st0ovrfdhi.js": "dotnet.native.js",
       "dotnet.native.67rumul467.wasm": "dotnet.native.wasm",
@@ -197,9 +197,9 @@
       "System.Xml.Linq.hvxjxkvtb2.wasm": "sha256-wwxsYRpXsPfLkFVXXX9uditc29XXKjAFv10/9OYAhf8=",
       "System.Xml.ReaderWriter.qzwb826ad3.wasm": "sha256-OlQzbDEmHh3pgMr2Msd6EgKZw5qxBHlr8bAPl5QJ5zI=",
       "System.Xml.XDocument.48098xpfwz.wasm": "sha256-nBrzSpmhhtigGcYZJVdo2wuvLImGeINPOwSwDvh/dSc=",
-      "ToDo.Common.d9ryzvwxap.wasm": "sha256-fyKm8m/OwfD0Urk5h7b8RBU/A1fsGEJ06klxHcTrQqk=",
-      "ToDo.Models.xlcm7cr64j.wasm": "sha256-q8+AnAkx+P2pSRrDEQP2/Hao5RvZblmeiY4U4snpFBw=",
-      "ToDo.qm9jf4heab.wasm": "sha256-frmJwekr55/DMJ0aP8jG6tQcJKOJly/UPw0+lSqfJd0="
+      "ToDo.Common.qbjbk2bbi2.wasm": "sha256-an0Vp7ZiY96hwWO7TVQg9C/rKF8XiZL5EB2r6q6joE8=",
+      "ToDo.Models.gg96tvo16t.wasm": "sha256-YE5n1ufPKXUeM5eSAel7jaYMkUQG3wOzTh0M1axQsek=",
+      "ToDo.7w95jtx38v.wasm": "sha256-qeew4auUBtTYeOIJ2PKQzka3QGamcTWjJEQLzriT7Jo="
     }
   },
   "cacheBootResources": true,
