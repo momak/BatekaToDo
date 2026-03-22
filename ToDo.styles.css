@@ -160,3 +160,71 @@ main[b-vvkeug5xum] {
         overflow-y: auto;
     }
 }
+/* /Pages/Components/LoadingOverlay.razor.rz.scp.css */
+.loading-spinner[b-2gmxe342c6] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+/* /Pages/Components/PageHeader.razor.rz.scp.css */
+.page-header-container[b-1oxv44t738] {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.page-header-content[b-1oxv44t738] {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.back-button-container[b-1oxv44t738] {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding-top: 1rem; /* Adjust to align vertically */
+}
+
+.back-link[b-1oxv44t738] {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+/* /Pages/Groups/Components/GroupHeader.razor.rz.scp.css */
+/* Header row layout */
+.group-header-row[b-65vy77wd38] {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+
+/* Progress bar container alignment */
+.progress-container[b-65vy77wd38] {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 100%;
+}
+
+/* Action buttons wrapper */
+.action-buttons-wrapper[b-65vy77wd38] {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.5rem 0.5rem 0.5rem 0;
+}
+/* /Pages/Groups/Groups.razor.rz.scp.css */
+/* Group list item border */
+.group-list-item[b-xvv16rrzw4] {
+    border-bottom: 1px solid black;
+}
+
+/* Highlight text styling */
+.highlight-text[b-xvv16rrzw4] {
+    font-weight: 500;
+    background-color: rgba(255, 255, 0, 0.3); /* Light yellow highlight */
+}
