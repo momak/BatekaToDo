@@ -107,38 +107,6 @@ code {
     margin-right: 0px
 }
 
-
-@media (max-width: 600px) {
-    .mud-expand-panel > div {
-        margin-left: -10px; 
-        margin-right: -8px; 
-    }
-}
-
-/* iOS Safari specific fixes */
-@supports (-webkit-touch-callout: none) {
-    /* Fix for MudBlazor components on iOS */
-    .mud-button, .mud-icon-button, .mud-button-root {
-        min-height: 44px !important; /* Apple's minimum touch target */
-        min-width: 44px !important;
-    }
-    /* Fix for input elements */
-    input, textarea, select {
-        font-size: 16px !important; /* Prevent zoom */
-        -webkit-appearance: none;
-        border-radius: 0;
-    }
-    /* Fix for search field */
-    .mud-input-control input {
-        font-size: 16px !important;
-    }
-    /* Fix for expansion panels */
-    .mud-expansion-panel {
-        -webkit-transform: translateZ(0);
-        transform: translateZ(0);
-    }
-}
-
 /* Keyboard open state */
 body.keyboard-open {
     position: fixed;

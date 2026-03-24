@@ -160,13 +160,29 @@ main[b-vvkeug5xum] {
         overflow-y: auto;
     }
 }
+/* /Pages/Components/ItemSkeleton.razor.rz.scp.css */
+.skeleton-card[b-jvuftnadvm] {
+    width: 100%;
+}
+
+.skeleton-content[b-jvuftnadvm] {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
 /* /Pages/Components/LoadingOverlay.razor.rz.scp.css */
+.loading-overlay-container[b-2gmxe342c6] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 .loading-spinner[b-2gmxe342c6] {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100%;
 }
 /* /Pages/Components/PageHeader.razor.rz.scp.css */
 .page-header-container[b-1oxv44t738] {
@@ -174,27 +190,35 @@ main[b-vvkeug5xum] {
     justify-content: space-between;
     align-items: flex-start;
     width: 100%;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
 }
 
-.page-header-content[b-1oxv44t738] {
+.header-text-content[b-1oxv44t738] {
     flex: 1;
-    display: flex;
-    flex-direction: column;
-    gap: 0.25rem;
+    min-width: 0;
+    -webkit-user-select: none;
+    user-select: none;
 }
 
-.back-button-container[b-1oxv44t738] {
-    display: flex;
-    align-items: center;
-    height: 100%;
-    padding-top: 1rem; /* Adjust to align vertically */
+.back-button-ios[b-1oxv44t738] {
+    margin-top: 1.5rem !important;
+    min-height: 44px !important;
+    min-width: 44px !important;
+    -webkit-tap-highlight-color: transparent;
 }
 
-.back-link[b-1oxv44t738] {
-    text-decoration: none;
-    display: flex;
-    align-items: center;
+    .back-button-ios:active[b-1oxv44t738] {
+        opacity: 0.7;
+        transform: scale(0.95);
+        transition: all 0.1s ease;
+    }
+/* /Pages/Components/SearchField.razor.rz.scp.css */
+.search-field-container[b-zh5l6q9n3c] {
+    width: 100%;
 }
+
+/* Add any search-specific styles here */
 /* /Pages/Groups/Components/GroupHeader.razor.rz.scp.css */
 /* Header row layout */
 .group-header-row[b-65vy77wd38] {

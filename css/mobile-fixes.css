@@ -1,0 +1,52 @@
+﻿/* iOS Safari specific fixes */
+@supports (-webkit-touch-callout: none) {
+    /* Fix for MudBlazor components on iOS */
+    .mud-button, .mud-icon-button, .mud-button-root {
+        min-height: 44px !important;
+        min-width: 44px !important;
+    }
+    /* Fix for input elements */
+    input, textarea, select {
+        font-size: 16px !important;
+        -webkit-appearance: none;
+        border-radius: 0;
+    }
+    /* Fix for search field */
+    .mud-input-control input {
+        font-size: 16px !important;
+    }
+    /* Fix for expansion panels */
+    .mud-expansion-panel {
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+    }
+    /* Ensure proper scrolling */
+    .page-content {
+        -webkit-overflow-scrolling: touch;
+    }
+    /* Fix for buttons not responding to taps */
+    .mud-button, .mud-icon-button {
+        -webkit-tap-highlight-color: transparent;
+        -webkit-touch-callout: none;
+    }
+}
+
+/* General mobile viewport fixes */
+@media (max-width: 600px) {
+    .mud-expand-panel > div {
+        margin-left: -10px;
+        margin-right: -8px;
+    }
+
+    /* Ensure interactive elements are touch-friendly */
+    .touch-target {
+        min-height: 44px;
+        min-width: 44px;
+    }
+}
+
+/* Keyboard open state */
+body.keyboard-open {
+    position: fixed;
+    width: 100%;
+}
