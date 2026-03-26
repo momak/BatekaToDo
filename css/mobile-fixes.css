@@ -69,3 +69,22 @@ input[type="search"],
         -webkit-box-shadow: 0 0 0px 1000px transparent inset !important;
         transition: background-color 5000s ease-in-out 0s;
     }
+
+
+/* Force 16px on all inputs to prevent iOS Safari zoom and rendering issues */
+input,
+textarea,
+select {
+    font-size: 16px !important;
+    -webkit-text-fill-color: currentColor !important;
+    opacity: 1 !important;
+}
+
+/* MudBlazor specific */
+.mud-input input,
+.mud-input textarea,
+.mud-input-slot input {
+    font-size: 16px !important;
+    -webkit-text-fill-color: currentColor !important;
+    opacity: 1 !important;
+}
