@@ -7,9 +7,6 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-    <!-- Prevent iOS zoom on focus -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
     <title>ToDo</title>
     <!--<base href="https://momak.github.io/BatekaToDo/" />-->
     <base href="https://momak.github.io/BatekaToDo/" />
@@ -60,8 +57,10 @@
         }(window.location))
     </script>
     <!-- End Single Page Apps for GitHub Pages -->
+    <script>
+        window.getWindowWidth = () => window.innerWidth || 0;
+    </script>
 </head>
-
 <body>
     <div id="app">
         <svg class="loading-progress">
@@ -120,7 +119,7 @@
                 }
             }, true);
         }
-    </script>
+    </script>   
 </body>
 
 </html>

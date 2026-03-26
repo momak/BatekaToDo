@@ -229,7 +229,18 @@ main[b-vvkeug5xum] {
     width: 100%;
 }
 
-/* Add any search-specific styles here */
+    /* Fix iOS Safari input text visibility */
+    .search-field-container input[b-zh5l6q9n3c] {
+        -webkit-text-fill-color: unset !important;
+        opacity: 1 !important;
+    }
+
+        .search-field-container input:-webkit-autofill[b-zh5l6q9n3c],
+        .search-field-container input:-webkit-autofill:focus[b-zh5l6q9n3c],
+        .search-field-container input:-webkit-autofill:hover[b-zh5l6q9n3c] {
+            -webkit-text-fill-color: inherit !important;
+            -webkit-box-shadow: 0 0 0px 1000px transparent inset !important;
+        }
 /* /Pages/Groups/Components/GroupHeader.razor.rz.scp.css */
 /* Header row layout */
 .group-header-row[b-65vy77wd38] {

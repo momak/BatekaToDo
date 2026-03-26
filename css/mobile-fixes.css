@@ -50,3 +50,22 @@ body.keyboard-open {
     position: fixed;
     width: 100%;
 }
+
+/* Fix iOS input text visibility */
+input,
+input[type="text"],
+input[type="search"],
+.mud-input input,
+.mud-input-slot {
+    -webkit-text-fill-color: unset !important;
+    color: inherit !important;
+    opacity: 1 !important;
+}
+
+    /* Fix iOS autofill background overriding text */
+    input:-webkit-autofill,
+    input:-webkit-autofill:focus {
+        -webkit-text-fill-color: inherit !important;
+        -webkit-box-shadow: 0 0 0px 1000px transparent inset !important;
+        transition: background-color 5000s ease-in-out 0s;
+    }
