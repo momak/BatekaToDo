@@ -264,6 +264,10 @@ main[b-vvkeug5xum] {
     padding: 0.5rem 0.5rem 0.5rem 0;
 }
 /* /Pages/Groups/Groups.razor.rz.scp.css */
+/* ============================================
+   Groups Page - Compact Padding Overrides
+   ============================================ */
+
 /* Group list item border */
 .group-list-item[b-xvv16rrzw4] {
     border-bottom: 1px solid black;
@@ -272,7 +276,93 @@ main[b-vvkeug5xum] {
 /* Highlight text styling */
 .highlight-text[b-xvv16rrzw4] {
     font-weight: 500;
-    background-color: rgba(255, 255, 0, 0.3); /* Light yellow highlight */
+    background-color: rgba(255, 255, 0, 0.3);
+}
+
+/* ============================================
+   Expansion Panel - Compact Padding
+   ============================================ */
+
+.group-list-item .mud-expansion-panel[b-xvv16rrzw4] {
+    padding: 0 !important;
+    box-shadow: none !important;
+}
+
+.group-list-item .mud-expansion-panel-header[b-xvv16rrzw4] {
+    padding: 4px 8px !important;
+    min-height: 0 !important;
+}
+
+.group-list-item .mud-panel-content[b-xvv16rrzw4] {
+    padding: 0 !important;
+}
+
+/* ============================================
+   Inner List - Compact Padding  
+   ============================================ */
+
+.group-list-item .mud-list[b-xvv16rrzw4] {
+    padding: 0 !important;
+}
+
+/* Inner list items */
+.group-list-item .mud-list-item[b-xvv16rrzw4] {
+    padding: 2px 0 !important;
+}
+
+/* Remove gutters from inner list items */
+.group-list-item .mud-list-item-gutters[b-xvv16rrzw4] {
+    padding-left: 2px !important;
+    padding-right: 2px !important;
+}
+
+/* ============================================
+   Item Card - Compact Padding
+   ============================================ */
+
+.group-list-item .mud-card[b-xvv16rrzw4] {
+    margin: 2px 0 !important;
+}
+
+.group-list-item .mud-card-header[b-xvv16rrzw4] {
+    padding: 6px 8px !important;
+}
+
+.group-list-item .mud-card-header-content[b-xvv16rrzw4] {
+    padding: 0 !important;
+}
+
+.group-list-item .mud-card-content[b-xvv16rrzw4] {
+    padding: 4px 8px !important;
+}
+
+.group-list-item .mud-card-actions[b-xvv16rrzw4] {
+    padding: 2px 4px !important;
+}
+
+/* ============================================
+   Fine-tune adjustments (uncomment to use)
+   ============================================ */
+
+/* Even more compact */
+.group-list-item .mud-list-item[b-xvv16rrzw4] {
+    padding: 2px 0 !important;
+}
+
+.group-list-item .mud-card[b-xvv16rrzw4] {
+    margin: 1px 0 !important;
+}
+
+.group-list-item .mud-card-header[b-xvv16rrzw4] {
+    padding: 4px 6px !important;
+}
+
+.group-list-item .mud-card-content[b-xvv16rrzw4] {
+    padding: 2px 6px !important;
+}
+
+.group-list-item .mud-expansion-panel-header[b-xvv16rrzw4] {
+    padding: 2px 4px !important;
 }
 /* /Pages/NotFound.razor.rz.scp.css */
 .not-found-container[b-fpv16pfr4w] {

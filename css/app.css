@@ -116,3 +116,8 @@ body.keyboard-open {
 .background-blur {
     backdrop-filter: blur(10px);
 }
+
+.mud-list-item-gutters {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+}
