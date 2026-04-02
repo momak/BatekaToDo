@@ -107,10 +107,17 @@ code {
     margin-right: 0px
 }
 
+/* Keyboard open state */
+body.keyboard-open {
+    position: fixed;
+    width: 100%;
+}
 
-@media (max-width: 600px) {
-    .mud-expand-panel > div {
-        margin-left: -10px; 
-        margin-right: -8px; 
-    }
+.background-blur {
+    backdrop-filter: blur(10px);
+}
+
+.mud-list-item-gutters {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
 }

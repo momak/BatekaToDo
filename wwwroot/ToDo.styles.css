@@ -160,3 +160,238 @@ main[b-vvkeug5xum] {
         overflow-y: auto;
     }
 }
+
+.nav-menu-wrapper[b-zwjufxwm87] {
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    width: 100%;
+}
+
+.ios-compatible-nav .mud-navlink[b-zwjufxwm87] {
+    min-height: 44px; /* iOS touch target */
+    -webkit-tap-highlight-color: transparent;
+}
+/* /Pages/Components/ItemSkeleton.razor.rz.scp.css */
+.skeleton-card[b-jvuftnadvm] {
+    width: 100%;
+}
+
+.skeleton-content[b-jvuftnadvm] {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+/* /Pages/Components/LoadingOverlay.razor.rz.scp.css */
+.loading-overlay-container[b-2gmxe342c6] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.loading-spinner[b-2gmxe342c6] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+/* /Pages/Components/PageHeader.razor.rz.scp.css */
+.page-header-container[b-1oxv44t738] {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+}
+
+.header-text-content[b-1oxv44t738] {
+    flex: 1;
+    min-width: 0;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.back-button-ios[b-1oxv44t738] {
+    margin-top: 1.5rem !important;
+    min-height: 44px !important;
+    min-width: 44px !important;
+    -webkit-tap-highlight-color: transparent;
+}
+
+    .back-button-ios:active[b-1oxv44t738] {
+        opacity: 0.7;
+        transform: scale(0.95);
+        transition: all 0.1s ease;
+    }
+/* /Pages/Components/SearchField.razor.rz.scp.css */
+.search-field-container[b-zh5l6q9n3c] {
+    width: 100%;
+}
+
+    /* Fix iOS Safari input text visibility */
+    .search-field-container input[b-zh5l6q9n3c] {
+        -webkit-text-fill-color: unset !important;
+        opacity: 1 !important;
+    }
+
+        .search-field-container input:-webkit-autofill[b-zh5l6q9n3c],
+        .search-field-container input:-webkit-autofill:focus[b-zh5l6q9n3c],
+        .search-field-container input:-webkit-autofill:hover[b-zh5l6q9n3c] {
+            -webkit-text-fill-color: inherit !important;
+            -webkit-box-shadow: 0 0 0px 1000px transparent inset !important;
+        }
+/* /Pages/Groups/Components/GroupHeader.razor.rz.scp.css */
+/* Header row layout */
+.group-header-row[b-65vy77wd38] {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+
+/* Progress bar container alignment */
+.progress-container[b-65vy77wd38] {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 100%;
+}
+
+/* Action buttons wrapper */
+.action-buttons-wrapper[b-65vy77wd38] {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.5rem 0.5rem 0.5rem 0;
+}
+/* /Pages/Groups/Groups.razor.rz.scp.css */
+/* ============================================
+   Groups Page - Compact Padding Overrides
+   ============================================ */
+
+/* Group list item border */
+.group-list-item[b-xvv16rrzw4] {
+    border-bottom: 1px solid black;
+}
+
+/* Highlight text styling */
+.highlight-text[b-xvv16rrzw4] {
+    font-weight: 500;
+    background-color: rgba(255, 255, 0, 0.3);
+}
+
+/* ============================================
+   Expansion Panel - Compact Padding
+   ============================================ */
+
+.group-list-item .mud-expansion-panel[b-xvv16rrzw4] {
+    padding: 0 !important;
+    box-shadow: none !important;
+}
+
+.group-list-item .mud-expansion-panel-header[b-xvv16rrzw4] {
+    padding: 4px 8px !important;
+    min-height: 0 !important;
+}
+
+.group-list-item .mud-panel-content[b-xvv16rrzw4] {
+    padding: 0 !important;
+}
+
+/* ============================================
+   Inner List - Compact Padding  
+   ============================================ */
+
+.group-list-item .mud-list[b-xvv16rrzw4] {
+    padding: 0 !important;
+}
+
+/* Inner list items */
+.group-list-item .mud-list-item[b-xvv16rrzw4] {
+    padding: 2px 0 !important;
+}
+
+/* Remove gutters from inner list items */
+.group-list-item .mud-list-item-gutters[b-xvv16rrzw4] {
+    padding-left: 2px !important;
+    padding-right: 2px !important;
+}
+
+/* ============================================
+   Item Card - Compact Padding
+   ============================================ */
+
+.group-list-item .mud-card[b-xvv16rrzw4] {
+    margin: 2px 0 !important;
+}
+
+.group-list-item .mud-card-header[b-xvv16rrzw4] {
+    padding: 6px 8px !important;
+}
+
+.group-list-item .mud-card-header-content[b-xvv16rrzw4] {
+    padding: 0 !important;
+}
+
+.group-list-item .mud-card-content[b-xvv16rrzw4] {
+    padding: 4px 8px !important;
+}
+
+.group-list-item .mud-card-actions[b-xvv16rrzw4] {
+    padding: 2px 4px !important;
+}
+
+/* ============================================
+   Fine-tune adjustments (uncomment to use)
+   ============================================ */
+
+/* Even more compact */
+.group-list-item .mud-list-item[b-xvv16rrzw4] {
+    padding: 2px 0 !important;
+}
+
+.group-list-item .mud-card[b-xvv16rrzw4] {
+    margin: 1px 0 !important;
+}
+
+.group-list-item .mud-card-header[b-xvv16rrzw4] {
+    padding: 4px 6px !important;
+}
+
+.group-list-item .mud-card-content[b-xvv16rrzw4] {
+    padding: 2px 6px !important;
+}
+
+.group-list-item .mud-expansion-panel-header[b-xvv16rrzw4] {
+    padding: 2px 4px !important;
+}
+/* /Pages/NotFound.razor.rz.scp.css */
+.not-found-container[b-fpv16pfr4w] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+    width: 100%;
+    padding: 1rem;
+}
+
+.not-found-content[b-fpv16pfr4w] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    max-width: 500px;
+    width: 100%;
+}
+
+.not-found-alert[b-fpv16pfr4w] {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+/* iOS-specific fixes */
+@supports (-webkit-touch-callout: none) {
+    .not-found-container[b-fpv16pfr4w] {
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+    }
+}
